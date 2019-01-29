@@ -7,10 +7,11 @@
     <groupId>com.gth.apple</groupId>
     <artifactId>gth-apple</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <modules>
-        <module>gth-apple-jse</module>
-    </modules>
     <packaging>pom</packaging>
+
+    <modules>
+        <module>gth-apple-java-base</module>
+    </modules>
 
 
 </project>
